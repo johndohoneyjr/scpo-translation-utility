@@ -9,7 +9,7 @@
             "type": "python",
             "request": "launch",
             "program": "${file}",
-            "args": ["C:\\Users\\johndohoney\\code-translation-utility\\input_code1", "C:\\Users\\johndohoney\\code-translation-utility\\translated_code1", "https://code-translation-kv.vault.azure.net/", "azure-openai-key","C:\\Users\\johndohoney\\code-translation-utility\\rejects1"],
+            "args": ["C:\\Users\\johndohoney\\code-translation-utility\\input_code1", "C:\\Users\\johndohoney\\code-translation-utility\\translated_code1", "https://code-translation-kv.vault.azure.net/", "openai-key","C:\\Users\\johndohoney\\code-translation-utility\\rejects1"],
             "console": "integratedTerminal",
             "justMyCode": true
         }
